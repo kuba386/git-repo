@@ -6,3 +6,4 @@ print ("hello")
 =======
 print ("Goodbye")
 >>>>>>> master-2
+print ("hello my dear friend")
