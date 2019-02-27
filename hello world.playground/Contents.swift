@@ -1,3 +1,3 @@
-import Cocoa
 
-var str = "Hello, playground"
+var str = "Hello world"
+print("hello world;")
