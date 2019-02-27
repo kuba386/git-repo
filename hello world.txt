@@ -1,7 +1,9 @@
-print ("hello world")
-print ("hello everybody")
-print ("hello bro")
-print ("hello")
-print ("Goodbye")
-print ("hello my dear friend")
-print ("Glad to see you")
+print ("hello world;")
+print ("hello everybody;")
+print ("hello bro;")
+print ("hello;")
+print ("Goodbye;")
+print ("hello my dear friend;")
+print ("Glad to see you;")
+
+
