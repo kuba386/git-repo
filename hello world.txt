@@ -1,8 +1,4 @@
-print ("hello world")
-print ("hello everybody")
-print ("hello bro")
-<<<<<<< HEAD
-print ("hello")
-=======
-print ("Goodbye")
->>>>>>> master-2
+print ("hello world;")
+print ("hello everybody;")
+print ("hello bro;")
+print ("Goodbye;")
